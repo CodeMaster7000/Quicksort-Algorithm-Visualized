@@ -1,0 +1,20 @@
+svg text {
+  font-family: sans-serif;
+  text-anchor: middle;
+  font-size: 14px;
+}
+rect {
+  fill: rgb(179, 213, 239);
+}
+rect.active {
+  fill: rgb(136, 189, 230);
+}
+rect.highlight {
+  fill: rgb(251, 178, 88);
+}
+rect.completed {
+  fill: rgb(38, 93, 171);
+}
+rect.pivot {
+  fill: rgb(96, 164, 104);
+}
